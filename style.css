@@ -1,13 +1,13 @@
 .nomor{
     text-decoration: none;
-    border: 1px solid yellow;
+    border: 1px solid blue;
     padding: 10px;
-    background-color: wheat;
-    color: black;
+    background-color: blue;
+    color: white;
 }
 .menu{
-    background-color: white;
-    color: black;
+    background-color: blue;
+    color: white;
 }
 
 .menu:hover{
